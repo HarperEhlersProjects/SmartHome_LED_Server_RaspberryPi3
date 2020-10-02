@@ -1,0 +1,417 @@
+{
+    "SLALengthMax": 300,
+    "virtualSLAs": [
+        {
+            "length": 256,
+            "mode": 4,
+            "modeParameter": [
+                0,
+                0.7,
+                0.3,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": 1,
+                    "length": 256,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        },
+        {
+            "length": 0,
+            "mode": 0,
+            "modeParameter": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "segments": [
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                },
+                {
+                    "inverted": false,
+                    "destSLA": -1,
+                    "length": 0,
+                    "firstSourceLED": 0,
+                    "firstDestLED": 0
+                }
+            ],
+            "gammaEnable": true
+        }
+    ],
+    "SLAs": [
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 1,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        },
+        {
+            "state": 0,
+            "length": 300,
+            "colorType": 0
+        }
+    ]
+}
