@@ -1,6 +1,8 @@
-The webinterface runs on a nginx server and php-7.
+The webinterface runs on a nginx server and php-7.3.
 
-1. nginx has to be installed
+1. nginx has to be installed.
+
+2. php-7.3 has to be installed.
 
 2. Edit //etc/nginx/sites-available/default file:
   
