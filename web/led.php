@@ -23,7 +23,7 @@
         <input type="text" name="param5"><br>
         <input type="text" name="param6"><br>
 
-        <input type="submit" name="applymode" value = "Apply">
+        <input type="submit" name="applyMode" value = "Apply">
     </form>
 
     <h2>System Settings</h2>
