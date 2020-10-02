@@ -3,7 +3,7 @@
     "virtualSLAs": [
         {
             "length": 256,
-            "mode": 4,
+            "mode": 5,
             "modeParameter": [
                 0,
                 0.7,
